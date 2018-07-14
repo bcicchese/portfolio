@@ -10,6 +10,6 @@ A fully responsive web page, meant to showcase various web projects.
 
 * **Brittany Cicchese** - *Initial work* - [bcicchese](https://github.com/bcicchese)
 
-## License
+## Acknowledgments
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+* Shout out to PaulOB for his code snippet on [sitepoint](https://www.sitepoint.com/community/t/bootstrap-4-navbar-brand-with-image-and-text/291672/3). It really helped me figure out how to format my logo.
